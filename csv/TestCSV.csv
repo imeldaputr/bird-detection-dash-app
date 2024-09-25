@@ -1,0 +1,73 @@
+start_second,end_second,scientific_name,common_name,confidence,audio_location
+0,3,Branta canadensis,Canada Goose,0.9028538,a1b2c3d4e5f6_1633036800
+3,6,Branta canadensis,Canada Goose,0.9315642,a1b2c3d4e5f6_1633036800
+6,9,Branta canadensis,Canada Goose,0.9334498,a1b2c3d4e5f6_1633036800
+9,12,Branta canadensis,Canada Goose,0.92597574,a1b2c3d4e5f6_1633036800
+12,15,Branta canadensis,Canada Goose,0.7630488,a1b2c3d4e5f6_1633036800
+15,18,Branta canadensis,Canada Goose,0.92569244,a1b2c3d4e5f6_1633036800
+18,21,Branta canadensis,Canada Goose,0.9823339,a1b2c3d4e5f6_1633036800
+21,24,Branta canadensis,Canada Goose,0.8674716,a1b2c3d4e5f6_1633036800
+24,27,Branta canadensis,Canada Goose,0.9625971,a1b2c3d4e5f6_1633036800
+27,30,Branta canadensis,Canada Goose,0.86246747,a1b2c3d4e5f6_1633036800
+30,33,Branta canadensis,Canada Goose,0.87241155,a1b2c3d4e5f6_1633036800
+33,36,Branta canadensis,Canada Goose,0.87577707,a1b2c3d4e5f6_1633036800
+36,39,Branta canadensis,Canada Goose,0.8012783,a1b2c3d4e5f6_1633036800
+0,3,Branta canadensis,Canada Goose,0.66721094,abcdef123456_1633036900
+0,3,Botaurus stellaris,Great Bittern,0.10512261,abcdef123456_1633036900
+3,6,Branta canadensis,Canada Goose,0.8106068,abcdef123456_1633036900
+3,6,Corvus corax,Common Raven,0.22741786,abcdef123456_1633036900
+6,9,Branta canadensis,Canada Goose,0.98356307,abcdef123456_1633036900
+9,12,Branta canadensis,Canada Goose,0.9354433,abcdef123456_1633036900
+9,12,Corvus corax,Common Raven,0.5060885,abcdef123456_1633036900
+12,15,Branta canadensis,Canada Goose,0.92107147,abcdef123456_1633036900
+12,15,Corvus corax,Common Raven,0.2466348,abcdef123456_1633036900
+15,18,Branta canadensis,Canada Goose,0.6777875,abcdef123456_1633036900
+15,18,Corvus corax,Common Raven,0.14696075,abcdef123456_1633036900
+18,21,Branta canadensis,Canada Goose,0.8144229,abcdef123456_1633036900
+18,21,Corvus corax,Common Raven,0.72477245,abcdef123456_1633036900
+21,24,Branta canadensis,Canada Goose,0.5184025,abcdef123456_1633036900
+21,24,Corvus corax,Common Raven,0.17336184,abcdef123456_1633036900
+24,27,Branta canadensis,Canada Goose,0.96749187,abcdef123456_1633036900
+27,30,Branta canadensis,Canada Goose,0.6990524,abcdef123456_1633036900
+27,30,Corvus corax,Common Raven,0.2764797,abcdef123456_1633036900
+30,33,Branta canadensis,Canada Goose,0.4948473,abcdef123456_1633036900
+30,33,Corvus corax,Common Raven,0.14521204,abcdef123456_1633036900
+33,36,Branta canadensis,Canada Goose,0.7851335,abcdef123456_1633036900
+33,36,Corvus corax,Common Raven,0.4001444,abcdef123456_1633036900
+36,39,Branta canadensis,Canada Goose,0.42449015,abcdef123456_1633036900
+0,3,Anser anser,Graylag Goose,0.9768337,123456abcdef_1633037000
+3,6,Anser anser,Graylag Goose,0.98030394,123456abcdef_1633037000
+6,9,Anser anser,Graylag Goose,0.98799753,123456abcdef_1633037000
+9,12,Anser anser,Graylag Goose,0.93889666,123456abcdef_1633037000
+9,12,Ardea cinerea,Gray Heron,0.20357549,123456abcdef_1633037000
+0,3,Anser albifrons,Greater White-fronted Goose,0.18989547,654321fedcba_1633037100
+3,6,Anser anser,Graylag Goose,0.25540578,654321fedcba_1633037100
+3,6,Anser albifrons,Greater White-fronted Goose,0.10064743,654321fedcba_1633037100
+0,3,Branta leucopsis,Barnacle Goose,0.47207427,f1e2d3c4b5a6_1633037200
+0,3,Anser albifrons,Greater White-fronted Goose,0.2715424,f1e2d3c4b5a6_1633037200
+0,3,Anser serrirostris,Tundra Bean-Goose,0.24712195,f1e2d3c4b5a6_1633037200
+3,6,Anser anser,Graylag Goose,0.3154083,f1e2d3c4b5a6_1633037200
+3,6,Anser serrirostris,Tundra Bean-Goose,0.13097773,f1e2d3c4b5a6_1633037200
+3,6,Branta leucopsis,Barnacle Goose,0.102179155,f1e2d3c4b5a6_1633037200
+3,6,Ardea cinerea,Gray Heron,0.19833721,9a8b7c6d5e4f_1633037300
+3,6,Pica pica,Eurasian Magpie,0.15382034,9a8b7c6d5e4f_1633037300
+6,9,Anser serrirostris,Tundra Bean-Goose,0.14218767,9a8b7c6d5e4f_1633037300
+6,9,Ardea cinerea,Gray Heron,0.118636616,9a8b7c6d5e4f_1633037300
+6,9,Anser brachyrhynchus,Pink-footed Goose,0.10650574,9a8b7c6d5e4f_1633037300
+9,12,Ardea cinerea,Gray Heron,0.15346806,9a8b7c6d5e4f_1633037300
+12,15,Anser serrirostris,Tundra Bean-Goose,0.74100465,9a8b7c6d5e4f_1633037300
+12,15,Anser brachyrhynchus,Pink-footed Goose,0.11944858,9a8b7c6d5e4f_1633037300
+15,18,Anser serrirostris,Tundra Bean-Goose,0.7103421,9a8b7c6d5e4f_1633037300
+15,18,Anser brachyrhynchus,Pink-footed Goose,0.14160201,9a8b7c6d5e4f_1633037300
+18,21,Anser serrirostris,Tundra Bean-Goose,0.5091782,9a8b7c6d5e4f_1633037300
+18,21,Anser albifrons,Greater White-fronted Goose,0.49840698,9a8b7c6d5e4f_1633037300
+18,21,Anser brachyrhynchus,Pink-footed Goose,0.10139939,9a8b7c6d5e4f_1633037300
+21,24,Anser serrirostris,Tundra Bean-Goose,0.7739882,9a8b7c6d5e4f_1633037300
+21,24,Anser brachyrhynchus,Pink-footed Goose,0.21185705,9a8b7c6d5e4f_1633037300
+24,27,Anser brachyrhynchus,Pink-footed Goose,0.14969127,9a8b7c6d5e4f_1633037300
+24,27,Anser serrirostris,Tundra Bean-Goose,0.12957294,9a8b7c6d5e4f_1633037300
+27,30,Anser serrirostris,Tundra Bean-Goose,0.5610973,9a8b7c6d5e4f_1633037300
+27,30,Anser albifrons,Greater White-fronted Goose,0.4116001,9a8b7c6d5e4f_1633037300
+27,30,Anser anser,Graylag Goose,0.2770552,9a8b7c6d5e4f_1633037300
+30,33,Anser anser,Graylag Goose,0.38560355,9a8b7c6d5e4f_1633037300
+30,33,Anser serrirostris,Tundra Bean-Goose,0.25927487,9a8b7c6d5e4f_1633037300
